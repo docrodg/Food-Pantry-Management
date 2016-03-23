@@ -1,5 +1,5 @@
 # Food-Pantry-Management
-A program to run all aspects of food pantries from grants and donations, orders, inventory, and distributing food to clients.
+A program to run all aspects of food pantries from grants and donations, orders, inventory, and distributing food to clients.  To be totally open-source, free for use and modification, and help volunteer organizations running a food pantry to get good analysis of their performance of all processes and report on them.
 
 The program will meet the following requirements:
 
